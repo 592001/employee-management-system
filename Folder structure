@@ -1,0 +1,10 @@
+employee-management-system/
+ ┣ src/
+ ┃ ┣ App.js
+ ┃ ┣ EmployeeForm.js
+ ┃ ┣ EmployeeList.js
+ ┃ ┣ index.js
+ ┃ ┗ style.css
+ ┣ public/
+ ┃ ┗ index.html
+ ┣ package.json
